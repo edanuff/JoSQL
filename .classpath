@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/josql/contrib/" kind="src" output="build" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry exported="true" kind="lib" path="/Users/edanuff/Development/workspace/JoSQL/lib/gentlyWEB-utils-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

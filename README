@@ -2,8 +2,6 @@ Experimental version forked from Barry Gently's project at http://josql.sourcefo
 
 This branch contains the unmodified latest 2.1 source release from Sourceforge.
 
-This version includes the gentlyWeb-utils sources in the project so that a separate jar isn't necessary.
-
 Ed Anuff (ed at anuff.com)
 
 -------------------------------
